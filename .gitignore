@@ -22,3 +22,6 @@ build/
 _yardoc
 doc/
 .idea/
+source/23/
+source/25/
+vendor/
